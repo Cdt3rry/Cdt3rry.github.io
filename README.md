@@ -1,1 +1,5 @@
 # Cdt3rry.github.io
+Christin Terry terrychristin280@gmail.com
+My GitHub account is essential for contributing to open-source projects, managing personal or professional coding projects, and connecting with the developer community.
+The project's source code and documentation are located in this repository. With the main branch acting as the stable version, it has several branches for various features and iterations of the project. Contributors can use pull requests to return their modifications to the repository after cloning it to their local computers. Issues and pull request templates may also be included in the repository, which facilitates task and contribution management.
+First, I had to set up a repository, then download GitHub and log in. Then I selected the repository that was created and then clicked "clone repository."
